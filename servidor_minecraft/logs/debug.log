@@ -3863,3 +3863,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 21:47:32.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 21:47:32.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 21:48:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:48:56.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:49:37.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:49:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:49:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Zombified Piglin
+[23Dec2024 21:50:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 303.500000, 63.500000, 220.500000]
+[23Dec2024 21:52:24.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:52:32.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:52:32.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:54:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:55:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 100.500000, 60.500000, 23.500000]
+[23Dec2024 21:55:40.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[23Dec2024 21:55:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[23Dec2024 21:57:32.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:57:32.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
