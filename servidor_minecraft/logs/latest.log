@@ -258,3 +258,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 20:04:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
 [23Dec2024 20:12:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
 [23Dec2024 20:12:40.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 52.500000, 69.500000, 3237.500000]
+[23Dec2024 20:25:21.738] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[23Dec2024 20:25:24.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.149.243.67:49019] logged in with entity id 31981 at (1093.973923339221, 76.0, 3416.300000011921)
+[23Dec2024 20:25:24.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[23Dec2024 20:27:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 20:29:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[23Dec2024 20:29:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
