@@ -3820,3 +3820,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 21:17:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 573.500000, 151.500000, 4.500000]
 [23Dec2024 21:17:32.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 21:17:32.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:18:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 581.500000, 65.500000, -104.500000]
+[23Dec2024 21:22:32.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:22:32.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:24:23.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 246.500000, 72.500000, 115.500000]
+[23Dec2024 21:24:36.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 296.500000, 53.500000, 108.500000]
+[23Dec2024 21:26:46.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Butcher
+[23Dec2024 21:26:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:27:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 306.500000, 54.500000, 114.500000]
+[23Dec2024 21:27:05.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was burnt to a crisp whilst fighting Butcher
+[23Dec2024 21:27:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Hero of the Village]
+[23Dec2024 21:27:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:27:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 292.500000, 54.500000, 127.500000]
+[23Dec2024 21:27:32.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:27:32.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
