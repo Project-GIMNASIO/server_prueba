@@ -695,6 +695,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-23 03:45:39 +0000",
+      "minecraft:blaze": "2024-12-23 20:56:04 +0000",
       "minecraft:skeleton": "2024-12-14 17:13:38 +0000",
       "minecraft:hoglin": "2024-12-18 18:23:23 +0000",
       "minecraft:magma_cube": "2024-12-15 22:15:48 +0000",
@@ -1553,6 +1554,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-23 20:56:33 +0000",
+      "minecraft:nether_wastes": "2024-12-23 20:57:37 +0000",
       "minecraft:warped_forest": "2024-12-14 20:01:49 +0000"
     },
     "done": false
@@ -2688,6 +2691,42 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 04:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-23 20:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-23 20:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 20:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-23 20:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 20:56:07 +0000"
     },
     "done": true
   },

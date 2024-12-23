@@ -1383,3 +1383,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 20:57:16.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/39922, l='ServerLevel[world]', x=2455.96, y=63.00, z=1906.34] died, message: 'Cartographer was slain by Ravager'
 [23Dec2024 20:57:19.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 84.500000, 46.500000, -105.500000]
 [23Dec2024 20:57:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Meature
+[23Dec2024 20:57:36.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 20:57:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 263.500000, 62.500000, -1.500000]
+[23Dec2024 20:58:35.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 399.500000, 63.500000, -82.500000]
+[23Dec2024 20:59:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 21:02:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 21:03:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:03:22.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:03:26.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 397.500000, 60.500000, -92.500000]
+[23Dec2024 21:03:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:03:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:03:44.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 401.500000, 60.500000, -90.500000]
+[23Dec2024 21:03:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[23Dec2024 21:03:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:03:57.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 402.500000, 60.500000, -90.500000]
+[23Dec2024 21:04:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:04:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:04:11.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 402.500000, 60.500000, -88.500000]
+[23Dec2024 21:04:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:04:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:04:34.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 403.500000, 60.500000, -92.500000]
+[23Dec2024 21:04:49.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:04:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:04:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 401.500000, 60.500000, -97.500000]
+[23Dec2024 21:05:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[23Dec2024 21:05:06.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:05:14.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 402.500000, 60.500000, -90.500000]
+[23Dec2024 21:05:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Wither Skeleton
+[23Dec2024 21:05:25.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:05:39.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 397.500000, 60.500000, -89.500000]
+[23Dec2024 21:05:48.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[23Dec2024 21:07:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 352.500000, 43.500000, -182.500000]
+[23Dec2024 21:07:21.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Magma Cube
+[23Dec2024 21:07:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[23Dec2024 21:07:29.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 358.500000, 43.500000, -177.500000]
