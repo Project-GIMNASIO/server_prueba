@@ -222,3 +222,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 02:15:38.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
 [23Dec2024 02:16:13.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
 [23Dec2024 02:16:39.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/97, l='ServerLevel[world]', x=604.20, y=29.00, z=-106.42] died, message: 'Villager hit the ground too hard whilst trying to escape Jedu13'
+[23Dec2024 02:22:17.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
+[23Dec2024 02:22:24.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[23Dec2024 02:22:52.131] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=165}
+[23Dec2024 02:22:52.133] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=165}
+[23Dec2024 02:22:52.133] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=166}
+[23Dec2024 02:22:52.133] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=166}
+[23Dec2024 02:22:52.134] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=167}
+[23Dec2024 02:22:52.135] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=167}
+[23Dec2024 02:22:52.136] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=165}
+[23Dec2024 02:22:52.137] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=166}
+[23Dec2024 02:22:52.138] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=670, y=28, z=167}
+[23Dec2024 02:23:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
