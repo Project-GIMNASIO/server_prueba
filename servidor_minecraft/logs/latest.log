@@ -1479,3 +1479,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 21:55:40.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
 [23Dec2024 21:55:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
 [23Dec2024 22:06:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 391.500000, 61.500000, 57.500000]
+[23Dec2024 22:12:37.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Butcher
+[23Dec2024 22:12:45.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 608.500000, 29.500000, -102.500000]
+[23Dec2024 22:13:03.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 380.500000, 39.500000, 65.500000]
