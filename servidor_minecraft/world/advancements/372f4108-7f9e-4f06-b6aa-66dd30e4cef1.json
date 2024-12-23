@@ -589,6 +589,7 @@
       "sweet_berries": "2024-12-14 17:40:33 +0000",
       "cooked_beef": "2024-12-15 22:44:33 +0000",
       "baked_potato": "2024-12-14 16:57:44 +0000",
+      "porkchop": "2024-12-23 04:19:14 +0000",
       "bread": "2024-12-14 17:30:37 +0000",
       "golden_apple": "2024-12-17 21:59:49 +0000",
       "cookie": "2024-12-14 16:56:23 +0000",
@@ -2657,6 +2658,36 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-23 04:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-23 04:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 04:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-23 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-23 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-23 04:20:45 +0000"
     },
     "done": true
   },
