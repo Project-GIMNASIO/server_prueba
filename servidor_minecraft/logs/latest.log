@@ -231,3 +231,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 19:24:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
 [23Dec2024 19:24:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
 [23Dec2024 19:25:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:38:01.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Applied enchantment Infinity to Jedu13's item]
+[23Dec2024 19:39:37.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Applied enchantment Unbreaking III to Jedu13's item]
+[23Dec2024 19:39:58.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Applied enchantment Unbreaking III to Jedu13's item]
+[23Dec2024 19:40:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Applied enchantment Unbreaking III to Jedu13's item]
+[23Dec2024 19:41:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Applied enchantment Mending to Jedu13's item]
+[23Dec2024 19:44:23.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1186.500000, 65.500000, 3465.500000]
+[23Dec2024 19:44:23.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[23Dec2024 19:52:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 felt like living in the Middle Ages
+[23Dec2024 19:52:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1185.500000, 74.500000, 3479.500000]
+[23Dec2024 19:53:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away
+[23Dec2024 19:53:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1186.500000, 74.500000, 3490.500000]
+[23Dec2024 19:54:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Creative Mode]
+[23Dec2024 19:55:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
