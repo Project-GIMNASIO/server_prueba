@@ -1,329 +1,328 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734837422756 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734922608913 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837425825 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734922624011 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837428903 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922627069 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837431960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922630271 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837435030 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922633394 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837438083 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922636448 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837441136 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734922651582 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837444196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922654655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837447299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922657712 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837450356 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922660766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837453521 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922663847 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837456573 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922666919 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837459655 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922669979 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837462731 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922673053 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837465791 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922676133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837468853 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734922691234 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837471911 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922694292 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837474972 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922697358 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837478038 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922700419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837481102 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922703490 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837484162 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922706560 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837487231 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922709653 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837490299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922712710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837493360 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922715766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837496421 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922718904 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837499481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922721980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837502549 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922725048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837505613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922728110 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837508670 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922731174 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837511741 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922734233 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837514800 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922737483 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837517882 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922740537 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837520942 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922743597 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837524008 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922746650 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837527067 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922749725 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837530124 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922752787 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837533185 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922755869 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837536262 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922758943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837539318 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922762015 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837542384 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922765069 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837545448 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922768124 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837548510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922771178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837551570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922774242 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837554643 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922777377 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837557705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922780432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837560770 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922783487 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837563831 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922786543 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837566954 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922789668 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837570013 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922792727 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837573100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922795788 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837576171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922798850 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837579258 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922801918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837582325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922804985 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837585387 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922808039 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837588445 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922811092 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837591503 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922814151 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837594585 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922817205 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837597646 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922820270 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837600710 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922823334 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837603797 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922826399 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837606863 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922829455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837609934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922832512 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837612995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922835568 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837616067 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837619125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-studio-prompt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734837622185 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734922838627 tunnel running, 1 tunnels registered
 
 
 TUNNELS
