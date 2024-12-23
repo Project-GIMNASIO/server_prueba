@@ -222,3 +222,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 19:07:59.999] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
 [23Dec2024 19:08:02.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:34591] logged in with entity id 64 at (601.5155373615962, 30.0, -98.56992499880148)
 [23Dec2024 19:08:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[23Dec2024 19:21:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:22:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:22:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:23:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:11.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:25:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]

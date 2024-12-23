@@ -2199,3 +2199,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 19:08:48.828] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [23Dec2024 19:11:56.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 19:11:56.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:16:56.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:16:56.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:21:56.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:21:56.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:21:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:22:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:22:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:23:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:11.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:35.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:24:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[23Dec2024 19:25:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
