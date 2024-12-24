@@ -260,3 +260,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 03:23:56.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (414.53128403425217, 78.0, 249.24395924806595) too far away from hit block BlockPos{x=414, y=76, z=249}.
 [24Dec2024 03:23:57.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (414.56688064336777, 78.0, 249.21813549101353) too far away from hit block BlockPos{x=414, y=76, z=249}.
 [24Dec2024 03:23:57.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jedu13: Location (414.6534777879715, 78.0, 249.16621020436287) too far away from hit block BlockPos{x=414, y=76, z=249}.
+[24Dec2024 03:29:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[24Dec2024 03:33:19.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
