@@ -1478,10 +1478,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-23 21:05:49 +0000",
       "minecraft:nether_wastes": "2024-12-23 20:54:41 +0000",
+      "minecraft:soul_sand_valley": "2024-12-24 03:49:27 +0000",
       "minecraft:basalt_deltas": "2024-12-14 20:07:09 +0000",
       "minecraft:warped_forest": "2024-12-14 20:01:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
