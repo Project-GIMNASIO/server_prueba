@@ -1521,3 +1521,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 05:00:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
 [24Dec2024 05:00:57.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
 [24Dec2024 05:00:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3006.500000, 48.500000, -436.500000]
+[24Dec2024 05:01:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[24Dec2024 05:01:22.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2890.500000, 45.500000, -366.500000]
+[24Dec2024 05:01:25.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2985.500000, 43.500000, -504.500000]
+[24Dec2024 05:01:27.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[24Dec2024 05:01:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[24Dec2024 05:01:45.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1672.500000, 36.500000, 854.500000]
+[24Dec2024 05:02:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 65.500000, 61.500000, 0.500000]
+[24Dec2024 05:02:54.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[24Dec2024 05:02:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[24Dec2024 05:03:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 05:03:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 05:03:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 05:03:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 05:03:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 05:03:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:rayana
+[24Dec2024 05:03:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:gardens_of_eden
+[24Dec2024 05:03:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:purgatorium
+[24Dec2024 05:03:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 05:03:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:ultimate_world
+[24Dec2024 05:03:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:volcanech
+[24Dec2024 05:03:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:lands_of_karvat
+[24Dec2024 05:03:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:kingdom_of_amber
+[24Dec2024 05:03:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:unahzaal_multiverse
+[24Dec2024 05:03:07.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:comets
+[24Dec2024 05:03:07.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 05:03:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 05:03:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (rayana): All chunks are saved
+[24Dec2024 05:03:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gardens_of_eden): All chunks are saved
+[24Dec2024 05:03:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (purgatorium): All chunks are saved
+[24Dec2024 05:03:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ultimate_world): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (volcanech): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lands_of_karvat): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kingdom_of_amber): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (unahzaal_multiverse): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (comets): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 05:03:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
