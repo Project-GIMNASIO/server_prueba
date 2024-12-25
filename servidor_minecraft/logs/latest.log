@@ -318,3 +318,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 22:26:01.742] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.entity_gravity'
 [25Dec2024 22:26:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [25Dec2024 22:26:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[25Dec2024 22:32:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[25Dec2024 22:35:17.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 608.500000, 29.500000, -102.500000]
+[25Dec2024 22:36:20.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[25Dec2024 22:36:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 608.500000, 29.500000, -102.500000]
+[25Dec2024 22:37:02.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Dune Slave
+[25Dec2024 22:37:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4151.500000, 87.500000, 3612.500000]
+[25Dec2024 22:37:26.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[25Dec2024 22:37:58.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Dune Slave
+[25Dec2024 22:38:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4157.500000, 87.500000, 3607.500000]
