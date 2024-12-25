@@ -234,3 +234,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:56:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [25Dec2024 21:57:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2917.500000, 57.500000, -276.500000]
 [25Dec2024 21:59:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3083.500000, 37.500000, -347.500000]
+[25Dec2024 22:03:34.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1446.500000, 34.500000, 1134.500000]
+[25Dec2024 22:04:48.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 412.500000, 46.500000, -312.500000]
+[25Dec2024 22:05:16.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2225.500000, 44.500000, -491.500000]
+[25Dec2024 22:05:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Infern
+[25Dec2024 22:05:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[25Dec2024 22:09:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[25Dec2024 22:10:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[25Dec2024 22:11:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Next Upgrade]
