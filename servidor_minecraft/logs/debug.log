@@ -2207,3 +2207,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Dec2024 23:59:27.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 00:04:27.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 00:04:27.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:09:27.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:09:27.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:09:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 572.500000, 150.500000, 1.500000]
+[25Dec2024 00:12:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 657.500000, 100.500000, -134.500000]
+[25Dec2024 00:14:27.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:14:27.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:14:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
+[25Dec2024 00:17:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 657.500000, 84.500000, -140.500000]
+[25Dec2024 00:17:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
+[25Dec2024 00:17:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 660.500000, 84.500000, -142.500000]
