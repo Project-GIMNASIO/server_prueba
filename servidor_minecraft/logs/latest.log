@@ -653,3 +653,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:03:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has completed the challenge [Subspace Bubble]
 [25Dec2024 21:03:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [25Dec2024 21:03:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[25Dec2024 21:07:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[25Dec2024 21:08:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[25Dec2024 21:12:55.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[25Dec2024 21:12:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[25Dec2024 21:15:30.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[25Dec2024 21:15:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
