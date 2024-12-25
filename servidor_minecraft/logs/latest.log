@@ -4,3 +4,7 @@
 [25Dec2024 00:17:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 657.500000, 84.500000, -140.500000]
 [25Dec2024 00:17:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
 [25Dec2024 00:17:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 660.500000, 84.500000, -142.500000]
+[25Dec2024 00:20:31.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=659, y=88, z=-139} BlockPos{x=660, y=88, z=-139}
+[25Dec2024 00:20:31.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=659, y=88, z=-139} BlockPos{x=660, y=88, z=-139}
+[25Dec2024 00:21:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
+[25Dec2024 00:21:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 654.500000, 84.500000, -143.500000]
