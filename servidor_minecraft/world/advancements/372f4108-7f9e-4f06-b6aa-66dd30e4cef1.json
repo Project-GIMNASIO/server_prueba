@@ -3269,5 +3269,11 @@
     },
     "done": true
   },
+  "eternal_tales:get_ruby_pickaxe": {
+    "criteria": {
+      "get_ruby_pickaxe_0": "2024-12-25 22:11:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
