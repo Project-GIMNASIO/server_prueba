@@ -1,312 +1,225 @@
-[25Dec2024 00:09:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 572.500000, 150.500000, 1.500000]
-[25Dec2024 00:12:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 657.500000, 100.500000, -134.500000]
-[25Dec2024 00:14:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
-[25Dec2024 00:17:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 657.500000, 84.500000, -140.500000]
-[25Dec2024 00:17:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
-[25Dec2024 00:17:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 660.500000, 84.500000, -142.500000]
-[25Dec2024 00:20:31.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=659, y=88, z=-139} BlockPos{x=660, y=88, z=-139}
-[25Dec2024 00:20:31.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=659, y=88, z=-139} BlockPos{x=660, y=88, z=-139}
-[25Dec2024 00:21:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was shot by Cold Overseer
-[25Dec2024 00:21:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 654.500000, 84.500000, -143.500000]
-[25Dec2024 00:32:49.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 589.500000, 16.500000, -102.500000]
-[25Dec2024 00:33:15.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 713.500000, -0.500000, -83.500000]
-[25Dec2024 00:33:17.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=909, y=-65, z=-185} but found not block entity block Block{minecraft:air} at location
-[25Dec2024 00:33:17.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=909, y=-65, z=-185}
-[25Dec2024 00:33:17.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=907, y=-65, z=-183} but found not block entity block Block{minecraft:air} at location
-[25Dec2024 00:33:17.096] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=907, y=-65, z=-183}
-[25Dec2024 00:33:17.096] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=906, y=-65, z=-185} but found not block entity block Block{minecraft:air} at location
-[25Dec2024 00:33:17.097] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=906, y=-65, z=-185}
-[25Dec2024 00:35:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 682.500000, -16.500000, -16.500000]
-[25Dec2024 00:35:50.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 795.500000, -28.500000, 37.500000]
-[25Dec2024 00:35:51.456] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=953, y=-43, z=-113}
-[25Dec2024 00:35:51.457] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=953, y=-43, z=-113}
-[25Dec2024 00:35:51.457] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=949, y=-43, z=-115}
-[25Dec2024 00:35:51.458] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=949, y=-43, z=-115}
-[25Dec2024 00:35:51.458] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=950, y=-43, z=-115}
-[25Dec2024 00:35:51.458] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=950, y=-43, z=-115}
-[25Dec2024 00:35:51.459] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=951, y=-43, z=-115}
-[25Dec2024 00:35:51.459] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=951, y=-43, z=-115}
-[25Dec2024 00:35:51.459] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=953, y=-43, z=-113}
-[25Dec2024 00:35:51.460] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=949, y=-43, z=-115}
-[25Dec2024 00:35:51.460] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=950, y=-43, z=-115}
-[25Dec2024 00:35:51.460] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=951, y=-43, z=-115}
-[25Dec2024 00:35:53.464] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1002, y=-1, z=-177}
-[25Dec2024 00:35:53.465] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1002, y=-1, z=-177}
-[25Dec2024 00:35:53.465] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=998, y=-1, z=-179}
-[25Dec2024 00:35:53.466] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=998, y=-1, z=-179}
-[25Dec2024 00:35:53.466] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=999, y=-1, z=-179}
-[25Dec2024 00:35:53.466] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=999, y=-1, z=-179}
-[25Dec2024 00:35:53.466] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1000, y=-1, z=-179}
-[25Dec2024 00:35:53.466] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1000, y=-1, z=-179}
-[25Dec2024 00:35:53.467] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1002, y=-1, z=-177}
-[25Dec2024 00:35:53.467] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=998, y=-1, z=-179}
-[25Dec2024 00:35:53.467] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=999, y=-1, z=-179}
-[25Dec2024 00:35:53.467] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1000, y=-1, z=-179}
-[25Dec2024 00:36:40.025] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
-[25Dec2024 00:37:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
-[25Dec2024 00:37:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 570.500000, 155.500000, 2.500000]
-[25Dec2024 00:43:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 321.500000, 1672.000000, 63.000000]
-[25Dec2024 00:44:01.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
-[25Dec2024 00:44:01.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
-[25Dec2024 00:44:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
-[25Dec2024 00:44:07.962] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
-[25Dec2024 00:44:09.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:47137] logged in with entity id 12711 at (321.5, 1509.166591420924, 63.0)
-[25Dec2024 00:44:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
-[25Dec2024 00:44:15.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
-[25Dec2024 00:44:15.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
-[25Dec2024 00:44:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
-[25Dec2024 00:45:49.572] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
-[25Dec2024 00:45:51.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:40095] logged in with entity id 12785 at (321.5, 1317.2698916878055, 63.0)
-[25Dec2024 00:45:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
-[25Dec2024 00:45:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 343.500000, 1255.565095, 1662.500000]
-[25Dec2024 00:45:55.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! 0.0,-25.044229878023316,0.0
-[25Dec2024 00:45:57.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
-[25Dec2024 00:45:57.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
-[25Dec2024 00:45:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
-[25Dec2024 00:46:00.375] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
-[25Dec2024 00:46:02.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:51191] logged in with entity id 12871 at (343.5, 1223.4439935911214, 1662.5)
-[25Dec2024 00:46:02.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
-[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
-[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
-[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
-[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
-[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
-[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
-[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
-[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
-[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
-[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
-[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
-[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
-[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
-[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
-[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
-[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
-[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
-[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
-[25Dec2024 00:46:05.315] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
-[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
-[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
-[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
-[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
-[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
-[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
-[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
-[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
-[25Dec2024 00:46:05.318] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
-[25Dec2024 00:46:05.319] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
-[25Dec2024 00:46:05.319] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
-[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
-[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
-[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
-[25Dec2024 00:46:05.773] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
-[25Dec2024 00:46:05.773] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
-[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
-[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
-[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
-[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
-[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
-[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
-[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
-[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
-[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
-[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
-[25Dec2024 00:46:08.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
-[25Dec2024 00:46:08.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
-[25Dec2024 00:46:08.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
-[25Dec2024 00:46:15.072] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
-[25Dec2024 00:46:16.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:43487] logged in with entity id 12940 at (343.5, 1031.5472938580028, 1662.5)
-[25Dec2024 00:46:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
-[25Dec2024 00:46:24.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
-[25Dec2024 00:46:24.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3595ms or 71 ticks behind
-[25Dec2024 00:46:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell from a high place
-[25Dec2024 00:47:05.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 362.500000, 72.500000, 1662.500000]
-[25Dec2024 00:47:18.865] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
-[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
-[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
-[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
-[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
-[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
-[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
-[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
-[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
-[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
-[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
-[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
-[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
-[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
-[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
-[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
-[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
-[25Dec2024 00:47:18.870] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
-[25Dec2024 00:47:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 129.500000, 76.500000, 1577.500000]
-[25Dec2024 00:47:34.894] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
-[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
-[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
-[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
-[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
-[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
-[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
-[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
-[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
-[25Dec2024 00:50:31.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 121.500000, 68.500000, 1599.500000]
-[25Dec2024 00:54:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 97.500000, -30.500000, 1582.500000]
-[25Dec2024 00:54:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Eye Spy]
-[25Dec2024 00:54:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 181.500000, -30.500000, 1648.500000]
-[25Dec2024 00:56:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 153.500000, -29.500000, 1631.500000]
-[25Dec2024 00:56:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 151.500000, -30.500000, 1664.500000]
-[25Dec2024 00:57:32.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 176.500000, -36.500000, 1688.500000]
-[25Dec2024 00:59:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 155.500000, -30.500000, 1634.500000]
-[25Dec2024 01:00:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 97.500000, -27.500000, 1583.500000]
-[25Dec2024 01:00:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 172.500000, -24.500000, 1621.500000]
-[25Dec2024 01:01:11.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 123.500000, -20.500000, 1577.500000]
-[25Dec2024 01:01:38.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 182.500000, -30.500000, 1647.500000]
-[25Dec2024 01:03:42.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 116.500000, -31.000000, 1588.500000]
-[25Dec2024 01:06:19.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 159.500000, -30.500000, 1648.500000]
-[25Dec2024 01:07:14.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 113.500000, -32.500000, 1591.500000]
-[25Dec2024 01:09:57.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 56.500000, -30.000000, 1496.500000]
-[25Dec2024 01:09:58.619] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1311}
-[25Dec2024 01:09:58.619] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1311}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1310}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1310}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1309}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1309}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-54, y=-12, z=1307}
-[25Dec2024 01:09:58.620] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-54, y=-12, z=1307}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-55, y=-12, z=1307}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-55, y=-12, z=1307}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-56, y=-12, z=1307}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-56, y=-12, z=1307}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1311}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1310}
-[25Dec2024 01:09:58.621] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-58, y=-12, z=1309}
-[25Dec2024 01:09:58.622] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-54, y=-12, z=1307}
-[25Dec2024 01:09:58.622] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-55, y=-12, z=1307}
-[25Dec2024 01:09:58.622] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-56, y=-12, z=1307}
-[25Dec2024 01:10:01.652] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-64, y=-30, z=1283}
-[25Dec2024 01:10:01.653] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-64, y=-30, z=1283}
-[25Dec2024 01:10:01.653] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-30, z=1283}
-[25Dec2024 01:10:01.653] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-30, z=1283}
-[25Dec2024 01:10:01.653] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1287}
-[25Dec2024 01:10:01.654] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1287}
-[25Dec2024 01:10:01.654] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1286}
-[25Dec2024 01:10:01.654] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1286}
-[25Dec2024 01:10:01.654] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1285}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1285}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-64, y=-30, z=1283}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-30, z=1283}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1287}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1286}
-[25Dec2024 01:10:01.655] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-61, y=-30, z=1285}
-[25Dec2024 01:10:29.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 116.500000, -35.000000, 1588.500000]
-[25Dec2024 01:11:29.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1588.500000, -37.000000, -1051.500000]
-[25Dec2024 01:11:47.474] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=30, z=-962}
-[25Dec2024 01:11:47.475] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=30, z=-962}
-[25Dec2024 01:11:47.475] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=30, z=-962}
-[25Dec2024 01:11:47.475] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=30, z=-962}
-[25Dec2024 01:11:47.475] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=30, z=-962}
-[25Dec2024 01:11:47.475] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=30, z=-962}
-[25Dec2024 01:11:47.476] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=30, z=-962}
-[25Dec2024 01:11:47.476] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=30, z=-962}
-[25Dec2024 01:11:47.476] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=30, z=-962}
-[25Dec2024 01:11:48.936] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1074}
-[25Dec2024 01:11:48.936] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1074}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1075}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1075}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1076}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1076}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=-47, z=-1078}
-[25Dec2024 01:11:48.937] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=-47, z=-1078}
-[25Dec2024 01:11:48.938] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=-47, z=-1078}
-[25Dec2024 01:11:48.938] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=-47, z=-1078}
-[25Dec2024 01:11:48.938] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1411, y=-47, z=-1078}
-[25Dec2024 01:11:48.938] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1411, y=-47, z=-1078}
-[25Dec2024 01:11:48.938] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1074}
-[25Dec2024 01:11:48.939] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1075}
-[25Dec2024 01:11:48.939] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1413, y=-47, z=-1076}
-[25Dec2024 01:11:48.940] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1409, y=-47, z=-1078}
-[25Dec2024 01:11:48.940] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1410, y=-47, z=-1078}
-[25Dec2024 01:11:48.940] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1411, y=-47, z=-1078}
-[25Dec2024 01:11:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1599.500000, -43.500000, -985.500000]
-[25Dec2024 01:12:35.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -2027.500000, -44.000000, -923.500000]
-[25Dec2024 01:13:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -4315.500000, -52.000000, 2084.500000]
-[25Dec2024 01:13:31.297] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
-[25Dec2024 01:13:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 116.500000, -48.000000, 1588.500000]
-[25Dec2024 01:14:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Spectator Mode]
-[25Dec2024 01:14:25.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
-[25Dec2024 01:14:52.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Spectator Mode]
-[25Dec2024 01:15:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 56.500000, -10.380660, 1496.500000]
-[25Dec2024 01:17:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -6155.500000, -5.139669, 9860.500000]
-[25Dec2024 01:18:29.827] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[25Dec2024 01:18:29.828] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[25Dec2024 01:18:29.829] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[25Dec2024 01:18:29.835] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[25Dec2024 01:18:29.990] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[25Dec2024 01:18:29.990] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[25Dec2024 01:18:29.991] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[25Dec2024 01:18:29.991] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[25Dec2024 01:18:29.991] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[25Dec2024 01:18:30.005] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[25Dec2024 01:18:30.005] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[25Dec2024 01:18:31.093] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[25Dec2024 01:18:31.093] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[25Dec2024 01:18:31.093] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[25Dec2024 01:18:31.093] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[25Dec2024 01:18:31.094] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[25Dec2024 01:18:31.273] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[25Dec2024 01:18:31.274] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[25Dec2024 01:18:31.274] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[25Dec2024 01:18:31.274] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[25Dec2024 01:18:31.274] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[25Dec2024 01:18:31.275] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[25Dec2024 01:18:31.275] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[25Dec2024 01:18:31.281] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[25Dec2024 01:18:31.281] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[25Dec2024 01:18:31.282] [Worker-Main-74/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[25Dec2024 01:18:40.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 16948.500000, -15.276179, 3860.500000]
-[25Dec2024 01:19:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9396.500000, 34.188110, -10219.500000]
-[25Dec2024 01:19:44.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[25Dec2024 01:21:37.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
-[25Dec2024 01:21:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Young Sorcerer]
-[25Dec2024 01:23:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Next Upgrade]
-[25Dec2024 01:25:00.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 578.500000, 63.500000, -99.500000]
-[25Dec2024 01:25:56.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 638.500000, 24.500000, -49.500000]
-[25Dec2024 01:26:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 636.500000, 7.500000, -5.500000]
-[25Dec2024 01:27:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 770.500000, -23.500000, 87.500000]
-[25Dec2024 01:37:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
-[25Dec2024 01:40:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Blue and shiny]
-[25Dec2024 01:41:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Isn't it Cobalt Pick]
-[25Dec2024 01:42:27.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9356.500000, 88.500000, -10212.500000]
-[25Dec2024 01:44:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [The cycle of life]
-[25Dec2024 01:55:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
-[25Dec2024 01:58:35.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
-[25Dec2024 01:58:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
-[25Dec2024 01:58:45.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[25Dec2024 01:58:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Dec2024 01:58:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Dec2024 01:58:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Dec2024 01:58:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Dec2024 01:58:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:comets
-[25Dec2024 01:58:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:unahzaal_multiverse
-[25Dec2024 01:58:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:volcanech
-[25Dec2024 01:58:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Dec2024 01:58:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:purgatorium
-[25Dec2024 01:58:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Dec2024 01:58:45.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:gardens_of_eden
-[25Dec2024 01:58:45.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:rayana
-[25Dec2024 01:58:45.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:kingdom_of_amber
-[25Dec2024 01:58:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:ultimate_world
-[25Dec2024 01:58:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_tales:lands_of_karvat
-[25Dec2024 01:58:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (comets): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (unahzaal_multiverse): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (volcanech): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (purgatorium): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Dec2024 01:58:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gardens_of_eden): All chunks are saved
-[25Dec2024 01:58:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (rayana): All chunks are saved
-[25Dec2024 01:58:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kingdom_of_amber): All chunks are saved
-[25Dec2024 01:58:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ultimate_world): All chunks are saved
-[25Dec2024 01:58:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lands_of_karvat): All chunks are saved
-[25Dec2024 01:58:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Dec2024 20:36:32.488] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[25Dec2024 20:36:32.493] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[25Dec2024 20:36:33.552] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Dec2024 20:36:33.569] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[25Dec2024 20:36:33.571] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/server_prueba/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23118!/
+[25Dec2024 20:36:33.580] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/server_prueba/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[25Dec2024 20:36:33.582] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[25Dec2024 20:36:33.653] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server_prueba/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25Dec2024 20:36:33.667] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[25Dec2024 20:36:33.975] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server_prueba/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[25Dec2024 20:36:33.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server_prueba/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[25Dec2024 20:36:33.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server_prueba/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[25Dec2024 20:36:33.981] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server_prueba/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[25Dec2024 20:36:34.181] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[25Dec2024 20:36:34.777] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[25Dec2024 20:36:34.788] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[25Dec2024 20:36:35.630] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[25Dec2024 20:36:36.821] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Dec2024 20:36:36.839] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[25Dec2024 20:36:46.250] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[25Dec2024 20:36:46.250] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[25Dec2024 20:36:56.416] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Dec2024 20:36:56.416] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25Dec2024 20:36:56.417] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25Dec2024 20:36:56.418] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Dec2024 20:36:56.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Dec2024 20:36:56.470] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[25Dec2024 20:36:56.484] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[25Dec2024 20:36:56.525] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[25Dec2024 20:36:56.526] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[25Dec2024 20:36:56.535] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[25Dec2024 20:36:56.610] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[25Dec2024 20:36:57.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[25Dec2024 20:36:59.296] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Dec2024 20:37:01.099] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server_prueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[25Dec2024 20:37:01.101] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server_prueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[25Dec2024 20:37:03.821] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[25Dec2024 20:37:03.868] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eternal_tales:netheranchum_tag as it is missing following references: minecraft:weeping_vines_plant (from Eternal Tales [Unahzaal Wish] [v1.6.48] [Forge 1.20.1].jar)
+[25Dec2024 20:37:03.872] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create:sandpaper as it is missing following references: #eternal_tales:sandpaper (from Eternal Tales [Unahzaal Wish] [v1.6.48] [Forge 1.20.1].jar)
+[25Dec2024 20:37:03.872] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eternal_tales:sandpaper as it is missing following references: #create:sandpaper (from Eternal Tales [Unahzaal Wish] [v1.6.48] [Forge 1.20.1].jar)
+[25Dec2024 20:37:03.874] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eternal_tales:suspicious_asteroid_stone_rare as it is missing following references: minecraft:sweet_berry_bush (from Eternal Tales [Unahzaal Wish] [v1.6.48] [Forge 1.20.1].jar)
+[25Dec2024 20:37:05.070] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tied_by_ender}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.070] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_fat}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.071] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/dead_egyptian_martyr}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.071] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nebular}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.072] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.072] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/cemetery_zombie}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.072] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nyetet_the_fallen_titan}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.072] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/golden_golem}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.073] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/iceologer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.073] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/spirit}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.073] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/comethead}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.073] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_kraken}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/vivid}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunlin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/rock_blaze}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/vivid}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.074] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/three_headed_wither_skeleton}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/squindine}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/paradise_watcher}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/beast}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/rock_blaze}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/squindine}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/halloween_spirit}.pools[8].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.075] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[7].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[6].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infern}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_thin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nebular}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/chaotic_creature}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/three_headed_wither_skeleton}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.076] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/hell_overseer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/wendigo}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infern}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sundusa}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/hell_overseer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.077] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_shrimp}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nyetet_the_fallen_titan}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nebular}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/desert_larva}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.078] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/desert_larva}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/asteroid_watcher}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_zombie}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/rock_blaze}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_beast}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.079] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nyetet_the_fallen_titan}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sjinn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purgatory_watcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.080] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_phantom}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_phantom}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/ruby_buddy}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_beast}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purgatory_watcher}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.081] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/asteroid_watcher}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunflower_spider}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nyetet_the_fallen_titan}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/wendigo}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/ruby_buddy}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/butcher}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/melter}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.082] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/desert_larva}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.083] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nebular}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.083] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/halloween_spirit}.pools[7].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.083] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/squindine}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.083] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/comets_beetle}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.083] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/cemetery_zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_shrimp}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/forester}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/profaned_cow}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/two_faced}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/three_headed_wither_skeleton}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.084] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/hell_overseer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.085] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[8].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.085] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/banshee}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.085] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/three_headed_wither_skeleton}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.085] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/hell_overseer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.085] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/rock_blaze}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infern}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/spirit}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/beast}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/squindine}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/purg_thin}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.086] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/iceologer}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[5].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/paradise_watcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/beast}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tied_by_ender}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/dead_egyptian_martyr}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.087] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/butcher}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/vivid}.pools[6].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nebular}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/vivid}.pools[4].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/profaned_cow}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/terrible_tree}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/jaghax}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/golden_golem}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunlin}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/profaned_cow}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/comethead_blue}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.089] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/banshee_blue}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/profaned_cow}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tied_by_ender}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunlin}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tarantula}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.090] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_ceratioidei}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tied_by_ender}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_ceratioidei}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/halloween_spirit}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tarantula}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/cold_overseer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.091] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/sunlin}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tarantula}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/cold_overseer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/infected_ceratioidei}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tarantula}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/comet_horn_et}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/tied_by_ender}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.093] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/nyetet_the_fallen_titan}.pools[10].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.093] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:eternal_tales:entities/cold_overseer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Dec2024 20:37:05.250] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 40 recipes
+[25Dec2024 20:37:05.251] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[25Dec2024 20:37:05.399] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1611 advancements
+[25Dec2024 20:37:05.413] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[25Dec2024 20:37:05.418] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25Dec2024 20:37:05.449] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
+[25Dec2024 20:37:06.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Dec2024 20:37:06.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Dec2024 20:37:06.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Dec2024 20:37:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Dec2024 20:37:07.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Dec2024 20:37:07.063] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Dec2024 20:37:07.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Dec2024 20:37:14.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Dec2024 20:37:18.174] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.299] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.326] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.409] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.422] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.424] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:18.555] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:19.029] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:19.555] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:20.040] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 20:37:20.525] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[25Dec2024 20:37:21.025] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[25Dec2024 20:37:21.434] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7410 ms
+[25Dec2024 20:37:21.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.099s)! For help, type "help"
+[25Dec2024 20:37:22.001] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Dec2024 20:37:22.005] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[25Dec2024 20:44:39.172] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mauro17YT is 372f4108-7f9e-4f06-b6aa-66dd30e4cef1
+[25Dec2024 20:44:41.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.115.208.43:33887] logged in with entity id 60 at (2985.5, 43.0, -504.5)
+[25Dec2024 20:44:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
+[25Dec2024 20:45:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2958.500000, 35.500000, -424.500000]
