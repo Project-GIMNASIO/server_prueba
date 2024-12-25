@@ -3535,9 +3535,9 @@
     },
     "done": true
   },
-  "eternal_tales:kill_vivid": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "kill_vivid_0": "2024-12-25 01:44:16 +0000"
+      "in_stronghold": "2024-12-25 00:54:01 +0000"
     },
     "done": true
   },
@@ -3559,15 +3559,21 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-25 00:54:01 +0000"
-    },
-    "done": true
-  },
   "eternal_tales:get_cobalt_pickaxe": {
     "criteria": {
       "get_cobalt_pickaxe_0": "2024-12-25 01:41:03 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:kill_vivid": {
+    "criteria": {
+      "kill_vivid_0": "2024-12-25 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-25 21:00:32 +0000"
     },
     "done": true
   },
