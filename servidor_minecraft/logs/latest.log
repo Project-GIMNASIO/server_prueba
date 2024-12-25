@@ -45,3 +45,122 @@
 [25Dec2024 00:36:40.025] [Worker-Main-58/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
 [25Dec2024 00:37:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
 [25Dec2024 00:37:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 570.500000, 155.500000, 2.500000]
+[25Dec2024 00:43:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 321.500000, 1672.000000, 63.000000]
+[25Dec2024 00:44:01.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[25Dec2024 00:44:01.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[25Dec2024 00:44:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[25Dec2024 00:44:07.962] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 00:44:09.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:47137] logged in with entity id 12711 at (321.5, 1509.166591420924, 63.0)
+[25Dec2024 00:44:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[25Dec2024 00:44:15.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[25Dec2024 00:44:15.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[25Dec2024 00:44:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[25Dec2024 00:45:49.572] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 00:45:51.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:40095] logged in with entity id 12785 at (321.5, 1317.2698916878055, 63.0)
+[25Dec2024 00:45:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[25Dec2024 00:45:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 343.500000, 1255.565095, 1662.500000]
+[25Dec2024 00:45:55.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 moved too quickly! 0.0,-25.044229878023316,0.0
+[25Dec2024 00:45:57.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[25Dec2024 00:45:57.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[25Dec2024 00:45:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[25Dec2024 00:46:00.375] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 00:46:02.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:51191] logged in with entity id 12871 at (343.5, 1223.4439935911214, 1662.5)
+[25Dec2024 00:46:02.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
+[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
+[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
+[25Dec2024 00:46:04.911] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
+[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
+[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
+[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
+[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
+[25Dec2024 00:46:04.912] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
+[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
+[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
+[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
+[25Dec2024 00:46:04.913] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1790}
+[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1789}
+[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=340, y=-50, z=1788}
+[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=336, y=-50, z=1786}
+[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=337, y=-50, z=1786}
+[25Dec2024 00:46:04.914] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=338, y=-50, z=1786}
+[25Dec2024 00:46:05.315] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
+[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
+[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
+[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
+[25Dec2024 00:46:05.316] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
+[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
+[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
+[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
+[25Dec2024 00:46:05.317] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
+[25Dec2024 00:46:05.318] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
+[25Dec2024 00:46:05.319] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=383, y=-3, z=1512}
+[25Dec2024 00:46:05.319] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=382, y=-3, z=1512}
+[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1508}
+[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1509}
+[25Dec2024 00:46:05.320] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=380, y=-3, z=1510}
+[25Dec2024 00:46:05.773] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
+[25Dec2024 00:46:05.773] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
+[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
+[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
+[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
+[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
+[25Dec2024 00:46:05.774] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
+[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
+[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=464, y=-28, z=1802}
+[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1806}
+[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1805}
+[25Dec2024 00:46:05.775] [Worker-Main-58/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=466, y=-28, z=1804}
+[25Dec2024 00:46:08.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 was kicked for floating too long!
+[25Dec2024 00:46:08.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Flying is not enabled on this server
+[25Dec2024 00:46:08.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[25Dec2024 00:46:15.072] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 00:46:16.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:43487] logged in with entity id 12940 at (343.5, 1031.5472938580028, 1662.5)
+[25Dec2024 00:46:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[25Dec2024 00:46:24.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[25Dec2024 00:46:24.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3595ms or 71 ticks behind
+[25Dec2024 00:46:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 fell from a high place
+[25Dec2024 00:47:05.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 362.500000, 72.500000, 1662.500000]
+[25Dec2024 00:47:18.865] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
+[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
+[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
+[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
+[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
+[25Dec2024 00:47:18.866] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
+[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
+[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
+[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
+[25Dec2024 00:47:18.867] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
+[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
+[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
+[25Dec2024 00:47:18.868] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1487}
+[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1486}
+[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=93, y=-5, z=1485}
+[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=89, y=-5, z=1483}
+[25Dec2024 00:47:18.869] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=90, y=-5, z=1483}
+[25Dec2024 00:47:18.870] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=91, y=-5, z=1483}
+[25Dec2024 00:47:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 129.500000, 76.500000, 1577.500000]
+[25Dec2024 00:47:34.894] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
+[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
+[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
+[25Dec2024 00:47:34.895] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
+[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
+[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
+[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1481}
+[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1482}
+[25Dec2024 00:47:34.896] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-63, y=-2, z=1483}
+[25Dec2024 00:50:31.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 121.500000, 68.500000, 1599.500000]
+[25Dec2024 00:54:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 97.500000, -30.500000, 1582.500000]
+[25Dec2024 00:54:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Eye Spy]
+[25Dec2024 00:54:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 181.500000, -30.500000, 1648.500000]
+[25Dec2024 00:56:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 153.500000, -29.500000, 1631.500000]
+[25Dec2024 00:56:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 151.500000, -30.500000, 1664.500000]
+[25Dec2024 00:57:32.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 176.500000, -36.500000, 1688.500000]
+[25Dec2024 00:59:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 155.500000, -30.500000, 1634.500000]
+[25Dec2024 01:00:04.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 97.500000, -27.500000, 1583.500000]
+[25Dec2024 01:00:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 172.500000, -24.500000, 1621.500000]
+[25Dec2024 01:01:11.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 123.500000, -20.500000, 1577.500000]
+[25Dec2024 01:01:38.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 182.500000, -30.500000, 1647.500000]
+[25Dec2024 01:03:42.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 116.500000, -31.000000, 1588.500000]
+[25Dec2024 01:06:19.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 159.500000, -30.500000, 1648.500000]
+[25Dec2024 01:07:14.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 113.500000, -32.500000, 1591.500000]
