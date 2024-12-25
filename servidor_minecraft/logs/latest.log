@@ -223,3 +223,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 20:44:41.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mauro17YT[/127.115.208.43:33887] logged in with entity id 60 at (2985.5, 43.0, -504.5)
 [25Dec2024 20:44:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT joined the game
 [25Dec2024 20:45:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2958.500000, 35.500000, -424.500000]
+[25Dec2024 20:46:56.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3076.500000, 43.500000, -632.500000]
+[25Dec2024 20:54:04.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT was slain by Infern
+[25Dec2024 20:56:37.027] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 20:56:39.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:47073] logged in with entity id 2023 at (595.9402955144859, 29.0, -92.35774461234189)
+[25Dec2024 20:56:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
