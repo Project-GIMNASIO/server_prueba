@@ -3533,6 +3533,18 @@
     },
     "done": true
   },
+  "eternal_tales:get_rune": {
+    "criteria": {
+      "get_rune_0": "2024-12-25 01:21:55 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_ruby_pickaxe": {
+    "criteria": {
+      "get_ruby_pickaxe_0": "2024-12-25 01:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-25 00:54:01 +0000"
