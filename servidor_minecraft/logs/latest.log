@@ -659,3 +659,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 21:12:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
 [25Dec2024 21:15:30.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
 [25Dec2024 21:15:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
+[25Dec2024 21:26:39.994] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[25Dec2024 21:26:41.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:58271] logged in with entity id 6724 at (9287.595825709974, 74.5, -10228.486575654877)
+[25Dec2024 21:26:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[25Dec2024 21:27:19.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[25Dec2024 21:27:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
