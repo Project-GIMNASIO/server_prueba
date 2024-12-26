@@ -8951,3 +8951,40 @@
 [26Dec2024 03:25:43.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Big and with tentacles]
 [26Dec2024 03:26:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2886.500000, -8.500000, 4515.500000]
 [26Dec2024 03:27:00.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:27:48.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2750.500000, 55.500000, 4455.500000]
+[26Dec2024 03:29:20.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2855, y=-17, z=4478} BlockPos{x=2871, y=-4, z=4508}
+[26Dec2024 03:29:20.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2855, y=-17, z=4478} BlockPos{x=2871, y=-4, z=4508}
+[26Dec2024 03:29:20.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2855, y=-17, z=4478} BlockPos{x=2871, y=-4, z=4508}
+[26Dec2024 03:29:20.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2855, y=-17, z=4478} BlockPos{x=2871, y=-4, z=4508}
+[26Dec2024 03:29:20.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2855, y=-17, z=4478} BlockPos{x=2871, y=-4, z=4508}
+[26Dec2024 03:29:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3040.500000, 173.500000, 3866.500000]
+[26Dec2024 03:30:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2639.500000, 165.500000, 4306.500000]
+[26Dec2024 03:30:46.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:31:06.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT died from infection
+[26Dec2024 03:31:13.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2632.500000, 159.500000, 4301.500000]
+[26Dec2024 03:33:36.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:33:42.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 03:33:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:33:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 died from infection
+[26Dec2024 03:34:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3339.500000, 87.500000, 3267.500000]
+[26Dec2024 03:34:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2058.500000, 78.500000, 1764.500000]
+[26Dec2024 03:35:13.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1093.500000, 76.500000, 3416.500000]
+[26Dec2024 03:35:14.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 638.500000, 71.500000, -94.500000]
+[26Dec2024 03:35:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 615.500000, 99.500000, -308.500000]
+[26Dec2024 03:35:33.847] [Worker-Main-293/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (525, 14, -464)
+[26Dec2024 03:35:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2262.500000, 65.500000, 3311.500000]
+[26Dec2024 03:36:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -78.500000, 71.500000, 141.500000]
+[26Dec2024 03:36:11.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 592.500000, 63.500000, -7.500000]
+[26Dec2024 03:36:32.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 46.500000, 63.500000, -102.500000]
+[26Dec2024 03:37:03.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2401.500000, 75.500000, 1048.500000]
+[26Dec2024 03:37:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2186.500000, 167.500000, 1204.500000]
+[26Dec2024 03:38:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2125.500000, 178.500000, 1218.500000]
+[26Dec2024 03:38:41.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1715.500000, 78.500000, 1361.500000]
+[26Dec2024 03:39:03.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Jedu13]
+[26Dec2024 03:39:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to Mauro17YT]
+[26Dec2024 03:39:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:41:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 655.500000, 109.500000, -136.500000]
+[26Dec2024 03:42:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2638.500000, 166.500000, 4306.500000]
+[26Dec2024 03:42:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 03:43:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 608.500000, 29.500000, -102.500000]
+[26Dec2024 03:43:24.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]

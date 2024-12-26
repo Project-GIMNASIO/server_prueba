@@ -48,6 +48,7 @@
       "minecraft:snowy_beach": "2024-12-13 21:38:11 +0000",
       "minecraft:warm_ocean": "2024-12-25 23:53:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-17 20:59:59 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-26 03:37:54 +0000",
       "minecraft:savanna": "2024-12-23 04:02:50 +0000",
       "minecraft:plains": "2024-12-17 22:25:56 +0000"
     },
@@ -3857,6 +3858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-26 02:38:35 +0000"
@@ -3893,6 +3900,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-26 02:38:35 +0000"
@@ -3923,6 +3942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-26 02:38:35 +0000"
@@ -3950,6 +3981,12 @@
   "eternal_tales:get_bonespur": {
     "criteria": {
       "get_bonespur_0": "2024-12-26 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
     },
     "done": true
   },
