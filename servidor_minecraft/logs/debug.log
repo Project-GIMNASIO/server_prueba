@@ -11853,3 +11853,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 01:52:07.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 01:52:07.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 01:52:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Infected Shrimp
+[26Dec2024 01:57:07.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:57:07.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:59:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 298.500000, 68.500000, 92.500000]
+[26Dec2024 02:00:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1875.500000, 66.500000, 1260.500000]
+[26Dec2024 02:00:12.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2137.500000, 123.500000, 1046.500000]
+[26Dec2024 02:00:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2286.500000, 62.500000, 1024.500000]
+[26Dec2024 02:02:07.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:02:07.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:03:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 felt like living in the Middle Ages
+[26Dec2024 02:03:20.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2290.500000, 72.500000, 1030.500000]
+[26Dec2024 02:03:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 withered away
+[26Dec2024 02:04:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2283.500000, 76.500000, 1024.500000]
+[26Dec2024 02:06:03.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 02:07:07.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:07:07.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:12:07.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:12:07.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:12:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2673.500000, 5.500000, 4524.500000]
