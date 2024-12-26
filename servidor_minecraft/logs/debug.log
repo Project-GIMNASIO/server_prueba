@@ -11871,3 +11871,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 02:12:07.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 02:12:07.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 02:12:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2673.500000, 5.500000, 4524.500000]
+[26Dec2024 02:17:07.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:17:07.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:18:20.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2825.500000, 11.500000, 4525.500000]
+[26Dec2024 02:19:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Crystalyzed infection]
+[26Dec2024 02:22:07.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:22:07.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:22:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 died from infection
+[26Dec2024 02:22:31.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2885.500000, -8.500000, 4515.500000]
+[26Dec2024 02:23:24.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]

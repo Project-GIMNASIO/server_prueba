@@ -3784,6 +3784,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_sea_prism": {
+    "criteria": {
+      "get_sea_prism_0": "2024-12-26 02:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-26 01:18:30 +0000"
