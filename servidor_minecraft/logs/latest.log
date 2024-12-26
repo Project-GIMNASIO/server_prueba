@@ -227,3 +227,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 20:30:36.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:38261] logged in with entity id 59 at (621.8677165220937, 31.0, -102.50761248592649)
 [26Dec2024 20:30:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
 [26Dec2024 20:30:39.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[26Dec2024 20:53:48.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Infection]
+[26Dec2024 20:55:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9289.500000, 74.500000, -10229.500000]
+[26Dec2024 20:56:10.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]

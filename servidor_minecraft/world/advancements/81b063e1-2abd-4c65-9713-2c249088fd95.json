@@ -3996,5 +3996,11 @@
     },
     "done": true
   },
+  "eternal_tales:get_hyacinthum_grass_block": {
+    "criteria": {
+      "get_hyacinthum_grass_block_0": "2024-12-26 20:53:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
