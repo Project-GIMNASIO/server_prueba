@@ -256,3 +256,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 21:54:59.147] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
 [26Dec2024 21:55:01.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:49375] logged in with entity id 10236 at (601.6999999880791, 30.0, -98.36346715001227)
 [26Dec2024 21:55:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[26Dec2024 22:14:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9289.500000, 74.500000, -10229.500000]
+[26Dec2024 22:14:20.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[26Dec2024 22:14:29.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 22:14:52.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9289.500000, 74.500000, -10229.500000]
+[26Dec2024 22:16:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 9356.500000, 88.500000, -10212.500000]
+[26Dec2024 22:16:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1087.500000, 70.500000, 3436.500000]
+[26Dec2024 22:17:07.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3892.500000, 207.500000, 4778.500000]
+[26Dec2024 22:17:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
