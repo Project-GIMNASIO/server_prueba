@@ -3941,6 +3941,12 @@
     },
     "done": true
   },
+  "eternal_tales:kill_infected_kracken": {
+    "criteria": {
+      "kill_infected_kracken_0": "2024-12-26 03:25:43 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:get_bonespur": {
     "criteria": {
       "get_bonespur_0": "2024-12-26 03:06:44 +0000"
