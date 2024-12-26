@@ -11764,3 +11764,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 00:59:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3890.500000, 107.500000, 4772.500000]
 [26Dec2024 01:02:07.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 01:02:07.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:07:07.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:07:07.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:08:27.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3830.500000, 70.500000, 4949.500000]
+[26Dec2024 01:08:32.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3900, y=-66, z=5076} but found not block entity block Block{minecraft:air} at location
+[26Dec2024 01:08:32.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3900, y=-66, z=5076}
+[26Dec2024 01:08:32.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3902, y=-65, z=5075} but found not block entity block Block{minecraft:air} at location
+[26Dec2024 01:08:32.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3902, y=-65, z=5075}
+[26Dec2024 01:08:33.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3902, y=-66, z=5075} but found not block entity block Block{minecraft:air} at location
+[26Dec2024 01:08:33.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3902, y=-66, z=5075}
+[26Dec2024 01:08:33.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3902, y=-66, z=5078} but found not block entity block Block{minecraft:air} at location
+[26Dec2024 01:08:33.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3902, y=-66, z=5078}
+[26Dec2024 01:09:19.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3122.500000, 76.500000, 3726.500000]
+[26Dec2024 01:09:25.362] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=9, z=-283}
+[26Dec2024 01:09:25.362] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=9, z=-278}
+[26Dec2024 01:09:25.363] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=7, z=-279}
+[26Dec2024 01:09:25.363] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-282}
+[26Dec2024 01:09:25.364] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-280}
+[26Dec2024 01:09:25.364] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-279}
+[26Dec2024 01:09:25.364] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=9, z=-281}
+[26Dec2024 01:09:25.364] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=7, z=-281}
+[26Dec2024 01:09:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3283.500000, 77.500000, 3750.500000]
+[26Dec2024 01:09:44.082] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=9, z=-283}
+[26Dec2024 01:09:44.083] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=9, z=-278}
+[26Dec2024 01:09:44.083] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=7, z=-279}
+[26Dec2024 01:09:44.083] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-282}
+[26Dec2024 01:09:44.083] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-280}
+[26Dec2024 01:09:44.084] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=8, z=-279}
+[26Dec2024 01:09:44.084] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=9, z=-281}
+[26Dec2024 01:09:44.084] [Worker-Main-162/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=7, z=-281}
+[26Dec2024 01:12:07.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:12:07.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:12:16.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3404.500000, 69.500000, 3671.500000]
+[26Dec2024 01:12:27.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3356.500000, 63.500000, 3514.500000]
+[26Dec2024 01:12:45.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3322.500000, 83.500000, 3401.500000]
+[26Dec2024 01:16:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3386.500000, 86.500000, 3273.500000]
+[26Dec2024 01:17:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3176.500000, 67.500000, 3255.500000]
+[26Dec2024 01:17:07.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:17:07.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:17:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3100.500000, 75.500000, 3335.500000]
+[26Dec2024 01:20:00.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3133.500000, 80.500000, 3501.500000]
+[26Dec2024 01:20:12.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2821.500000, 68.500000, 4215.500000]
+[26Dec2024 01:20:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2987.500000, 75.500000, 4156.500000]
+[26Dec2024 01:20:35.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3142.500000, 88.500000, 4214.500000]
+[26Dec2024 01:20:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3304.500000, 67.500000, 4280.500000]
+[26Dec2024 01:20:47.949] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[26Dec2024 01:20:47.951] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[26Dec2024 01:20:47.951] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.entity_gravity'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.entity_gravity'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.entity_gravity'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[26Dec2024 01:20:47.952] [Worker-Main-163/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.entity_gravity'
+[26Dec2024 01:20:55.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 3370.500000, 73.500000, 4121.500000]
+[26Dec2024 01:21:05.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2867.500000, 65.500000, 4380.500000]
+[26Dec2024 01:21:18.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2757.500000, 48.500000, 4451.500000]
+[26Dec2024 01:22:07.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:22:07.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:22:30.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
