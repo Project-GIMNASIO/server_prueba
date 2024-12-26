@@ -3756,6 +3756,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_cobalt": {
+    "criteria": {
+      "get_cobalt_0": "2024-12-26 04:39:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 04:10:49 +0000"
@@ -3789,6 +3795,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-26 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_cobalt_pickaxe": {
+    "criteria": {
+      "get_cobalt_pickaxe_0": "2024-12-26 04:39:48 +0000"
     },
     "done": true
   },

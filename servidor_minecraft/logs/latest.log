@@ -9057,3 +9057,17 @@
 [26Dec2024 04:37:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
 [26Dec2024 04:39:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Blue and shiny]
 [26Dec2024 04:39:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Isn't it Cobalt Pick]
+[26Dec2024 04:40:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 32.500000, 43.500000, 269.500000]
+[26Dec2024 04:41:16.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 04:41:35.817] [Worker-Main-379/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=11, z=-280}
+[26Dec2024 04:41:35.818] [Worker-Main-379/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=11, z=-280}
+[26Dec2024 04:41:35.818] [Worker-Main-379/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=270, y=11, z=-280}
+[26Dec2024 04:41:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 04:41:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 515.500000, 23.500000, -123.500000]
+[26Dec2024 04:43:49.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 04:43:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 504.500000, 23.500000, -127.500000]
+[26Dec2024 04:44:59.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 04:45:02.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 505.500000, 24.500000, -127.500000]
+[26Dec2024 04:47:08.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 04:47:29.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mauro17YT lost connection: Disconnected
+[26Dec2024 04:47:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT left the game
