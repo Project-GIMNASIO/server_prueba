@@ -12312,3 +12312,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 03:57:07.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 03:57:07.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 03:57:21.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Dec2024 03:59:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 809.500000, 72.500000, 337.500000]
+[26Dec2024 04:02:09.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:02:09.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:02:39.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1007.500000, 36.500000, 297.500000]
+[26Dec2024 04:03:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 walked into a cactus whilst trying to escape Piglin
+[26Dec2024 04:04:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1046.500000, 32.500000, 276.500000]
+[26Dec2024 04:04:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 tried to swim in lava
+[26Dec2024 04:04:40.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 3339.500000, 87.500000, 3267.500000]
+[26Dec2024 04:05:03.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1047.500000, 66.500000, 270.500000]
+[26Dec2024 04:05:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1041.500000, 33.500000, 282.500000]
+[26Dec2024 04:05:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Jedu13 to Mauro17YT]
+[26Dec2024 04:05:47.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[26Dec2024 04:06:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1044.500000, 46.500000, 273.500000]
+[26Dec2024 04:06:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 1041.500000, 32.500000, 279.500000]
+[26Dec2024 04:07:09.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:07:09.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
