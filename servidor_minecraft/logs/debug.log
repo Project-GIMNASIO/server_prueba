@@ -12339,3 +12339,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 04:17:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 608.500000, 29.500000, -102.500000]
 [26Dec2024 04:17:09.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 04:17:09.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:20:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2058.500000, 78.500000, 1764.500000]
+[26Dec2024 04:20:45.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2538.500000, 64.500000, 1843.500000]
+[26Dec2024 04:21:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2526.500000, 64.500000, 1834.500000]
+[26Dec2024 04:21:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 04:22:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2724.500000, 65.500000, 2107.500000]
+[26Dec2024 04:22:09.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:22:09.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:22:27.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2608.500000, 62.500000, 2126.500000]
+[26Dec2024 04:22:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 2484.500000, 63.500000, 1706.500000]
+[26Dec2024 04:22:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 04:22:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 04:23:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 520.500000, 23.500000, -123.500000]
+[26Dec2024 04:24:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 04:26:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1824.500000, 127.500000, 1220.500000]
+[26Dec2024 04:26:47.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1723.500000, 67.500000, 1359.500000]
+[26Dec2024 04:27:08.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1629.500000, 67.500000, 1254.500000]
+[26Dec2024 04:27:09.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:27:09.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:28:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1760.500000, 133.500000, 1097.500000]
+[26Dec2024 04:28:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 1609.500000, 71.500000, 909.500000]
+[26Dec2024 04:28:54.778] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=736}
+[26Dec2024 04:28:54.778] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=736}
+[26Dec2024 04:28:54.778] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=737}
+[26Dec2024 04:28:54.778] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=737}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=738}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=738}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1600, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1600, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1601, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1601, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1602, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1602, y=-4, z=740}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=736}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=737}
+[26Dec2024 04:28:54.779] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1604, y=-4, z=738}
+[26Dec2024 04:28:54.780] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1600, y=-4, z=740}
+[26Dec2024 04:28:54.780] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1601, y=-4, z=740}
+[26Dec2024 04:28:54.780] [Worker-Main-310/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1602, y=-4, z=740}
+[26Dec2024 04:29:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 980.500000, 81.500000, 875.500000]
+[26Dec2024 04:29:36.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to 947.500000, 76.500000, 786.500000]
+[26Dec2024 04:30:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4138.500000, 70.500000, 3561.500000]
+[26Dec2024 04:31:20.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 04:31:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4138.500000, 70.500000, 3561.500000]
+[26Dec2024 04:32:09.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:32:09.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:33:20.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 04:37:09.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:37:09.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:37:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mauro17YT: Teleported Mauro17YT to Jedu13]
+[26Dec2024 04:39:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Blue and shiny]
+[26Dec2024 04:39:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mauro17YT has made the advancement [Isn't it Cobalt Pick]
