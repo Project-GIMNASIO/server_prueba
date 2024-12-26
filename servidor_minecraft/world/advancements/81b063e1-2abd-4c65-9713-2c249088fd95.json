@@ -3900,6 +3900,12 @@
     },
     "done": true
   },
+  "eternal_tales:get_grave": {
+    "criteria": {
+      "get_grave_0": "2024-12-26 04:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-26 03:31:51 +0000"
