@@ -228,3 +228,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 22:48:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
 [26Dec2024 22:53:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 485.500000, 64.500000, -57.500000]
 [26Dec2024 22:55:07.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=472, y=65, z=-48} BlockPos{x=474, y=63, z=-48}
+[26Dec2024 22:57:29.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 23:03:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 569.500000, 153.500000, 0.500000]
+[26Dec2024 23:05:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 501.500000, 69.500000, -85.500000]
