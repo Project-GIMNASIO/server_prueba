@@ -12436,3 +12436,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 05:07:09.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 05:09:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
 [26Dec2024 05:10:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 05:12:09.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:12:09.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:12:59.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 05:13:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 05:13:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 05:16:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Cemetery Zombie
+[26Dec2024 05:16:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 513.500000, 23.500000, -123.500000]
+[26Dec2024 05:17:09.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 05:17:09.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 05:19:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 508.500000, 23.500000, -124.500000]
+[26Dec2024 05:20:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 05:20:49.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
