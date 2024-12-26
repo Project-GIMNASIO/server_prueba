@@ -3996,9 +3996,9 @@
     },
     "done": true
   },
-  "eternal_tales:get_inverted_mud": {
+  "eternal_tales:get_hyacinthum_grass_block": {
     "criteria": {
-      "get_inverted_mud_0": "2024-12-26 21:23:00 +0000"
+      "get_hyacinthum_grass_block_0": "2024-12-26 20:53:48 +0000"
     },
     "done": true
   },
@@ -4008,9 +4008,9 @@
     },
     "done": true
   },
-  "eternal_tales:get_hyacinthum_grass_block": {
+  "eternal_tales:get_inverted_mud": {
     "criteria": {
-      "get_hyacinthum_grass_block_0": "2024-12-26 20:53:48 +0000"
+      "get_inverted_mud_0": "2024-12-26 21:23:00 +0000"
     },
     "done": true
   },
