@@ -3996,6 +3996,18 @@
     },
     "done": true
   },
+  "eternal_tales:get_inverted_mud": {
+    "criteria": {
+      "get_inverted_mud_0": "2024-12-26 21:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-26 21:22:42 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:get_hyacinthum_grass_block": {
     "criteria": {
       "get_hyacinthum_grass_block_0": "2024-12-26 20:53:48 +0000"
