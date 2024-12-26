@@ -8837,3 +8837,9 @@
 [26Dec2024 02:22:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 died from infection
 [26Dec2024 02:22:31.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 2885.500000, -8.500000, 4515.500000]
 [26Dec2024 02:23:24.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[26Dec2024 02:32:54.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jedu13 lost connection: Disconnected
+[26Dec2024 02:32:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 left the game
+[26Dec2024 02:34:24.863] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jedu13 is 81b063e1-2abd-4c65-9713-2c249088fd95
+[26Dec2024 02:34:26.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jedu13[/127.176.63.34:55959] logged in with entity id 110085 at (593.2312260594388, 29.0, -89.0867700171322)
+[26Dec2024 02:34:26.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 joined the game
+[26Dec2024 02:36:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 has made the advancement [Local Brewery]
