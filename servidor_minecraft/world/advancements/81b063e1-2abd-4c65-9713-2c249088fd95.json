@@ -4068,5 +4068,11 @@
     },
     "done": true
   },
+  "eternal_tales:upgrade_skill_with_notice_board": {
+    "criteria": {
+      "upgrade_skill_with_notice_board_0": "2024-12-26 23:31:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
