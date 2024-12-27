@@ -2646,3 +2646,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 00:43:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
 [27Dec2024 00:45:10.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 00:45:10.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:49:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4138.500000, 70.500000, 3561.500000]
+[27Dec2024 00:50:10.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:50:11.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 00:51:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[27Dec2024 00:55:10.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 00:55:11.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:00:10.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:00:10.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:03:44.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[27Dec2024 01:05:10.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:05:10.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
