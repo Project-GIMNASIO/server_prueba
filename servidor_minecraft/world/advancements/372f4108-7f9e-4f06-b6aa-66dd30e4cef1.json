@@ -3828,5 +3828,17 @@
     },
     "done": true
   },
+  "eternal_tales:enter_into_comets_icelands_biome": {
+    "criteria": {
+      "enter_into_comets_icelands_biome_0": "2024-12-26 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_aerolite_nugget": {
+    "criteria": {
+      "get_aerolite_nugget_0": "2024-12-26 23:56:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
