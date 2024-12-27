@@ -2667,3 +2667,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 01:12:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Cartographer]
 [27Dec2024 01:15:10.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 01:15:10.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:19:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[27Dec2024 01:19:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[27Dec2024 01:19:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[27Dec2024 01:19:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Modified entity data of Librarian]
+[27Dec2024 01:20:10.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:20:10.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:21:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[27Dec2024 01:25:10.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:25:10.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
