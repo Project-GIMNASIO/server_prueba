@@ -35,6 +35,7 @@
       "minecraft:river": "2024-12-17 22:26:30 +0000",
       "minecraft:lukewarm_ocean": "2024-12-23 04:03:50 +0000",
       "minecraft:snowy_plains": "2024-12-13 21:38:38 +0000",
+      "minecraft:stony_shore": "2024-12-27 02:53:52 +0000",
       "minecraft:snowy_taiga": "2024-12-13 21:39:02 +0000",
       "minecraft:dripstone_caves": "2024-12-25 01:18:20 +0000",
       "minecraft:cold_ocean": "2024-12-15 22:43:26 +0000",
@@ -4075,7 +4076,37 @@
     },
     "done": true
   },
+  "eternal_tales:into_comets": {
+    "criteria": {
+      "into_comets_0": "2024-12-26 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:enter_into_comets_icelands_biome": {
+    "criteria": {
+      "enter_into_comets_icelands_biome_0": "2024-12-26 23:54:22 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_aerolite_nugget": {
+    "criteria": {
+      "get_aerolite_nugget_0": "2024-12-26 23:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-27 01:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-27 01:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-27 01:41:05 +0000"
     },
@@ -4099,39 +4130,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-27 01:41:05 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:into_comets": {
-    "criteria": {
-      "into_comets_0": "2024-12-26 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-27 01:41:05 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:enter_into_comets_icelands_biome": {
-    "criteria": {
-      "enter_into_comets_icelands_biome_0": "2024-12-26 23:54:22 +0000"
-    },
-    "done": true
-  },
-  "eternal_tales:get_aerolite_nugget": {
-    "criteria": {
-      "get_aerolite_nugget_0": "2024-12-26 23:56:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2024-12-27 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-27 02:50:22 +0000"
     },
     "done": true
   },
