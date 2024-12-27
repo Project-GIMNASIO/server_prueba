@@ -71,3 +71,10 @@
 [27Dec2024 02:26:29.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55268.500000, 63.000000, 4316.500000]
 [27Dec2024 02:26:49.629] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
 [27Dec2024 02:26:49.630] [Worker-Main-99/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[27Dec2024 02:27:18.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55410.500000, 63.500000, 4317.500000]
+[27Dec2024 02:28:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 was slain by Zombie
+[27Dec2024 02:28:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55432.500000, 77.500000, 4320.500000]
+[27Dec2024 02:33:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jedu13 burned to death
+[27Dec2024 02:33:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55434.500000, 75.500000, 4259.500000]
+[27Dec2024 02:35:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55363.500000, 65.500000, 4316.500000]
+[27Dec2024 02:36:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -55346.500000, 63.500000, 4169.500000]
