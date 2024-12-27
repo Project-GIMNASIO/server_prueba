@@ -3828,6 +3828,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-12-27 00:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-12-27 00:07:15 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:enter_into_comets_icelands_biome": {
     "criteria": {
       "enter_into_comets_icelands_biome_0": "2024-12-26 23:55:22 +0000"
