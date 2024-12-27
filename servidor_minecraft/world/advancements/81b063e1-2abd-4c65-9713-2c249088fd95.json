@@ -4074,9 +4074,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-27 01:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-27 01:41:05 +0000"
+    },
+    "done": true
+  },
   "eternal_tales:into_comets": {
     "criteria": {
       "into_comets_0": "2024-12-26 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-27 01:41:05 +0000"
     },
     "done": true
   },
