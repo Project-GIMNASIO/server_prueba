@@ -49,3 +49,16 @@
 [27Dec2024 01:49:42.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Set own game mode to Survival Mode]
 [27Dec2024 02:00:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 4138.500000, 70.500000, 3561.500000]
 [27Dec2024 02:03:13.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to 601.500000, 30.500000, -98.500000]
+[27Dec2024 02:10:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -42446.500000, 31.000000, -192.500000]
+[27Dec2024 02:10:50.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[27Dec2024 02:11:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -42453.500000, 42.500000, -260.500000]
+[27Dec2024 02:12:06.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -42399.500000, 64.500000, -201.500000]
+[27Dec2024 02:13:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -43919.500000, 67.000000, 3119.500000]
+[27Dec2024 02:14:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jedu13: Teleported Jedu13 to -41083.500000, 63.000000, 3879.500000]
+[27Dec2024 02:14:26.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4951ms or 99 ticks behind
+[27Dec2024 02:14:44.487] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-41246, y=-65, z=3895} but found not block entity block Block{minecraft:air} at location
+[27Dec2024 02:14:44.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-41246, y=-65, z=3895}
+[27Dec2024 02:14:44.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-41248, y=-65, z=3897} but found not block entity block Block{minecraft:air} at location
+[27Dec2024 02:14:44.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-41248, y=-65, z=3897}
+[27Dec2024 02:14:46.042] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-41249, y=-65, z=3895} but found not block entity block Block{minecraft:air} at location
+[27Dec2024 02:14:46.042] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-41249, y=-65, z=3895}
